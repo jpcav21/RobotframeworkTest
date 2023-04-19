@@ -276,7 +276,7 @@ Login To Saucedemo with Standard User and Fill Orders
     # 2.2.20     Click back home button
     Click back home button
 
-    # 2.2.21
+    # 2.2.21    Logout
     Click burguer button
     Logout
 

@@ -53,7 +53,7 @@ Repository for a Technical Interview using robotframework and selenium webdriver
 
 
 ## IDE and Chrome Version Used
-- VS CodeVersion: 1.77.3 (user setup)
+- VSCode Version: 1.77.3 (user setup)
   Commit: 704ed70d4fd1c6bd6342c436f1ede30d1cff4710
   Date: 2023-04-12T09:16:02.548Z
   Electron: 19.1.11
